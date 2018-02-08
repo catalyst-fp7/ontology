@@ -309,6 +309,7 @@
     "sameAs": {"@id": "owl:sameAs", "@type": "@id"},
     "Statement": "rdf:Statement",
     "Class": {"@id": "owl:Class", "@type": "@id"},
+    "Property": "rdf:Property",
     "inverseOf": {"@id": "owl:inverseOf", "@type": "@id"},
 
     "subClassOf": {"@id": "rfds:subClassOf", "@type": "@id"},
